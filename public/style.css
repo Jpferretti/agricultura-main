@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.content {
+    background-color: whitesmoke;
+}
+
+.questionario {
+    width: 90%;
+    margin-top: 20px;
+    margin-left: 5%;
+}
